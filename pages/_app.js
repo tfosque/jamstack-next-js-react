@@ -1,8 +1,8 @@
 import '../styles/globals.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { Row } from 'react-bootstrap'
-import ProplusNavbar from '../layouts/proplusNavBar'
-import AppMenu from '../layouts/appMenu'
+import ProplusNavbar from './layouts/proplusNavbar'
+import AppMenu from './layouts/appMenu'
 import { useRouter } from 'next/router'
 import CarouselDisplay from '../components/Carousel'
 

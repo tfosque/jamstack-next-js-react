@@ -2,7 +2,6 @@ import {
   NavDropdown,
   Navbar,
   Nav,
-  Button,
   Col
 } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -12,7 +11,7 @@ import {
   faGlobe,
   faShoppingCart,
 } from '@fortawesome/free-solid-svg-icons';
-import UserLoggedIn from '../components/UserLoggedIn/userLoggedIn';
+import UserLoggedIn from '../../components/UserLoggedIn/userLoggedIn';
 import Link from 'next/link';
 
 const ProplusNavbar = () => {

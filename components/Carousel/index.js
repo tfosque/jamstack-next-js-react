@@ -13,7 +13,7 @@ const CarouselDisplay = () => {
           className="d-block w-100"
           src={roofImages01}
           alt="First slide"
-          style={{height: '482px'}}
+          style={{height: '484px'}}
         />
         <Carousel.Caption>
           <h3>First slide label</h3>
@@ -25,7 +25,7 @@ const CarouselDisplay = () => {
           className="d-block w-100"
           src={roofImages02}
           alt="First slide"
-          style={{height: '482px'}}
+          style={{height: '484px'}}
         />
 
         <Carousel.Caption>
@@ -38,7 +38,7 @@ const CarouselDisplay = () => {
           className="d-block w-100"
           src={roofImages03}
           alt="First slide"
-          style={{height: '482px'}}
+          style={{height: '484px'}}
         />
 
         <Carousel.Caption>
